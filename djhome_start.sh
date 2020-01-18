@@ -1,0 +1,1 @@
+docker run -d --name dj -p 2468:2468 -p 3000:3000 -p 8000:8000 nanangqq/djhome:0118
