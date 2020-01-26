@@ -1,0 +1,1 @@
+docker run -d --name rails --net ging -p 3000:3000 -p 2468:2468 nanangqq/rails:prac_0126
